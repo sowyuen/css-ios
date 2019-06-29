@@ -1,0 +1,31 @@
+#frame{
+	position: absolute;
+	left : 40%;
+
+
+}
+
+#home{
+	position: absolute;
+	left : 40%;
+	clip: rect(114px,446px,846px,30px);
+
+}
+
+.flex-container {
+	position: absolute;
+	display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ 	width: 319px;
+  height: 163px;
+  left: 294px;
+  top: 162px;
+}
+#icons{
+	position:relative;
+	left:43%;
+	margin : 5px;
+	width: 69px;
+	border-radius: 10px;
+}
